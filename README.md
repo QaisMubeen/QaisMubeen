@@ -1,16 +1,65 @@
-## Hi there 👋
+# Qais Mubeen
 
-<!--
-**QaisMubeen/QaisMubeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A focused and disciplined individual with 3 years of professional IT experience in the Pakistan Air Force. Currently pursuing a Bachelor's in Computer Science and transitioning into core tech fields such as Python programming, Cyber Security, and Cloud Computing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Technical Background (Pakistan Air Force – 3 Years)
+
+Worked in sensitive, high-responsibility IT environments:
+
+- **Server Operations Room**  
+  Managed and maintained mission-critical server infrastructure, ensuring 24/7 uptime, reliability, and performance monitoring.
+
+- **Data Transfer Section**  
+  Oversaw secure data handling, system-to-system transfers, and archival of sensitive information in military systems.
+
+- **Maintenance Labs**  
+  Diagnosed and resolved hardware, software, and networking issues across various technical systems and IT equipment.
+
+- **Infrastructure Support**  
+  Delivered operational support for internal IT networks, including performance tuning, troubleshooting, and system health checks.
+
+This experience built my strengths in managing real-world IT systems with accuracy, discipline, and accountability.
+
+---
+
+## 🔹 Current Learning Goals
+
+Building strong foundational and job-ready skills in:
+
+- **Python Programming** – Syntax, logic, object-oriented programming, and automation  
+- **Cyber Security** – Network defense, threat detection, system hardening  
+- **Cloud Computing** – Basics of AWS & Azure platforms  
+- **Git & GitHub** – Version control, collaborative development, portfolio management  
+- **Problem Solving** – Algorithms and coding platforms like HackerRank and LeetCode
+
+---
+
+## 🔹 Career Vision
+
+Combining technical discipline and continuous learning to:
+
+- Develop robust, scalable systems and automation solutions  
+- Deliver high-value work in globally competitive IT environments  
+- Build a strong technical portfolio that reflects real-world capabilities
+
+---
+
+## 🔹 Upcoming Additions
+
+- 📁 Personal Projects (Python tools, scripts, automation)  
+- 📜 Certifications (Python, Cloud, Cyber Security)  
+- 🔗 LinkedIn Profile (professional networking)
+
+---
+
+## 🔹 Contact
+
+- 📍 Location: Pakistan  
+- 📧 Email: qaismubeen787@gmail.com  
+- 🔗 GitHub: [github.com/QaisMubeen](https://github.com/QaisMubeen)
+
+---
+
+_“Consistency, focus, and discipline — built from my PAF experience — now applied to world-class tech readiness.”_
